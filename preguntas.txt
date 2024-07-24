@@ -1,0 +1,7 @@
+telerik es un proveedor de herrarmientas nada mas, tipo opciones de graficas, checkbox o subir archivos y el editarlos para ahorrar el tener digitar todo el codigo?  
+
+ que se diferencias telerik.ajax de asp.core? telerik y boostrap pueden trabajar en conjunto?  
+
+susan me menciono que podiamos hacer un modleo vista controlardor, para que se trabaje por separado el frond end del backend? y que es el controlador? 
+
+ella me mencionó que les explique como implementarlo al visual pero no sé mucho de como programarlo.   pero ya programe un codigo muy simple de como almacenar datos en sql server desde c# y no se que mas preguntar
