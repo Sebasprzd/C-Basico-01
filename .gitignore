@@ -1,0 +1,20 @@
+# Ignorar archivos y carpetas generados automáticamente
+bin/
+obj/
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignorar archivos específicos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.ncb
+*.sdf
+*.cache
+*.config
+
+# Ignorar archivos de entorno
+.env
